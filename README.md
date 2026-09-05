@@ -382,12 +382,12 @@ Python Intern at **Skillify**
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 I would like to thank **Skillify** for providing the internship opportunity and allowing me to improve my practical Python development skills through hands-on projects.
 
 ---
 
-## 📄 License
+##  License
 
 This project was created for educational and internship purposes.
